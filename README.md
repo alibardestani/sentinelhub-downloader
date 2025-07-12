@@ -2,7 +2,7 @@
 
 A Python module for downloading, visualizing, and saving Sentinel-2 satellite images using the Copernicus Sentinel Hub API.
 
-## 🚀 Features
+##  Features
 
 - Download Sentinel-2 L2A data for any bounding box and time range
 - Select any bands (e.g., B02, B03, B04 for true color)
@@ -13,7 +13,7 @@ A Python module for downloading, visualizing, and saving Sentinel-2 satellite im
 - Optional `.env`-based configuration
 - Easily extensible for command-line usage (CLI)
 
-## 🛠 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/alibarestani/sentinelhub-downloader.git
